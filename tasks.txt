@@ -1,0 +1,5 @@
+Exercise,true
+shopping,false
+study,false
+walking,false
+reading,false
